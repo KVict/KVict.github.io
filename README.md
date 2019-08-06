@@ -3,7 +3,7 @@ I'm a MSc in Applied Mathematics and Informatics (obtained from NSU, Russia) and
 Currently, I'm **in the search of the PhD project in  Data Science / Deep Learning**, so, I'm pleased to present a short description of the projects I've participated during my studies.
 
 ### My Projects
+![GitHub Logo](/assets/img/logo.png)
 
-
-|![GitHub Logo](/assets/img/logo.png){:height="24px" width="48px"} | Format: [Alt Text](https://kvict.github.io/)|
+|<img src="/assets/img/logo.png" height="24"> | Format: [Alt Text](https://kvict.github.io/)|
 |------------ | -------------|
