@@ -5,4 +5,4 @@ Currently, I'm **in the search of the PhD project in  Data Science / Deep Learni
 ### My Projects
 
 ![GitHub Logo](/assets/img/logo.png)
-Format: ![Alt Text](https://kvict.github.io/)
+Format: [Alt Text](https://kvict.github.io/)
