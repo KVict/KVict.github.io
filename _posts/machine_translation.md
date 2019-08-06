@@ -12,7 +12,3 @@ code: Link to code repo
 video: VIDEO
 poster: POSTER
 ---
-
-* Unsupervised alignment of the bitexts 
-* Word2vec 
-* [Alt Text](https://kvict.github.io/) 
