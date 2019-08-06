@@ -4,10 +4,10 @@ Currently, I'm **in the search of the PhD project in  Data Science / Deep Learni
 
 ### My Projects
 
+|<img src="/assets/img/logo.png" height="24"> | Format: [Alt Text](https://kvict.github.io/)|
+|<img src="/assets/img/logo.png" height="24"> | Format: [Alt Text](https://kvict.github.io/)|
+|<img src="https://ai2-s2-public.s3.amazonaws.com/figures/2017-08-08/da21fbfbbc56b3588a090cefcea6e1c4311d6086/4-Figure2-1.png" height="40"> | Automatic machine translation: Unsupervised alignment of the bitexts. [Alt Text](https://kvict.github.io/)|
 
-|<img src="/assets/img/logo.png" height="24"> | Format: [Alt Text](https://kvict.github.io/)|
-|<img src="/assets/img/logo.png" height="24"> | Format: [Alt Text](https://kvict.github.io/)|
-|<img src="/assets/img/logo.png" height="24"> | Format: [Alt Text](https://kvict.github.io/)|
 
 
 First Header | Second Header
