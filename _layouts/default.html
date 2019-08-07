@@ -55,18 +55,17 @@
               <h3>{{post.title}}</h3>
               <br>
               {{post.authors}}
-
               <br>
               <em>{{post.venue}}</em>, {{ post.date | date: "%Y" }}
               <br>
               {% if post.arxiv %}
-              <a href="{{post.arxiv}}">arxiv</a> /
+              / <a href="{{post.arxiv}}">arxiv</a> 
               {% endif %}
               {% if post.video %}
-              <a href="{{post.video}}">video</a> /
+              / <a href="{{post.video}}">video</a>
               {% endif %}
               {% if post.code %}
-              <a href="{{post.code}}">code</a> /
+              / <a href="{{post.code}}">code</a> 
               {% endif %}
               {% if post.poster %}
               / <a href="{{post.poster}}">poster</a> 
