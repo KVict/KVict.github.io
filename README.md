@@ -5,4 +5,6 @@ Currently, I'm **in the search of the PhD project in  Data Science / Deep Learni
 
 ### My Projects
 
-Passioned by the applications of **GANs and VAEs  for image translation and synthesis** I've also participated in the different (non deep learning) projects to get a deep understanding of basic image processing. More than that, I have a strong background in math and I've been doing research on methods of global optimization for multi-dimensional functions for several years. 
+Passioned by **computer vision** and the applications of **GANs and VAEs  for image translation and synthesis** I've also participated in the different (non deep learning) projects to get a deep understanding of basic image processing. More than that, I have a strong background in math and I've been doing research on methods of global optimization for multi-dimensional functions for several years.
+
+The list of my projects is below :
