@@ -5,11 +5,4 @@ Currently, I'm **in the search of the PhD project in  Data Science / Deep Learni
 
 ### My Projects
 
-|<img src="/assets/img/logo.png" height="24"> | Format: [Alt Text](https://kvict.github.io/)|
-|<img src="/assets/img/logo.png" height="24"> | Format: [Alt Text](https://kvict.github.io/)|
-
-
-First Header | Second Header
------------- | -------------
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
+Passioned by the applications of GANs and VAEs  for image translation and synthesis I've also participated in the different (non deep learning) projects to get a deep understanding of basic image processing. More than that, I have a strong background in math and I've been doing research on methods of global optimization for multi-dimensional functions for several years. 
