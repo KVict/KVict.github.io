@@ -21,7 +21,8 @@
         {% endif %}
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
-
+        
+        <!––
         {% if site.github.is_project_page %}
         <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
         {% endif %}
@@ -37,12 +38,21 @@
           <li><a href="{{ site.github.repository_url }}">View On <strong>GitHub</strong></a></li>
         </ul>
         {% endif %}
+        -->
         
-        <p style="text-align:center">
-        <a target="_blank" href="FILL"> Email</a> &nbsp;/&nbsp;
-        <a href="FILL">GitHub</a> &nbsp;/&nbsp;
-        <a href="FILL">Google Scholar</a> &nbsp;/&nbsp;
-        <a href="FILL"> LinkedIn </a>
+        <p style="text-align:left">
+        {% if site.email %}
+          <a href="{{site.email | relative_url}}">Email</a> &nbsp;/&nbsp;
+        {% endif %}
+        {% if site.cv %}
+          <a href="{{site.cv | relative_url}}">CV</a> &nbsp;/&nbsp;
+        {% endif %}
+        {% if site.researchgate %}
+          <a href="{{site.researchgate | relative_url}}">ResearchGate</a> &nbsp;/&nbsp;
+        {% endif %}
+        {% if site.linkedin %}
+          <a href="{{site.email | relative_url}}">LinkedIn</a> &nbsp;/&nbsp;
+        {% endif %}
         </p>
         
       </header>
