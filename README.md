@@ -1,9 +1,10 @@
-## Welcome to my personal webpage
+<h2> Welcome to my personal webpage </h2>
+
 I'm a MSc in Applied Mathematics and Informatics (obtained from NSU, Russia) and final year student at École des Pont ParisTech (France) - Major in Data Science. 
 
 Currently, I'm **in the search of the PhD project in  Data Science / Deep Learning**, so, I'm pleased to present a short description of the projects I've participated during my studies.
 
-### My Projects
+<h3> My Projects </h3>
 
 Passioned by **computer vision** and the applications of **GANs and VAEs  for image translation and synthesis** I've also participated in the different (non deep learning) projects to get a deep understanding of basic image processing. More than that, I have a strong background in math and I've been doing research on global optimization methods for multi-dimensional functions for several years.
 
