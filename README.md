@@ -1,6 +1,6 @@
 <h2> Welcome to my personal webpage </h2>
 
-I have a **MSc in Applied Mathematics and Informatics** (obtained from NSU, Russia) and an **Engineering degree** (obtained from École des Pont ParisTech, France) - Major in Data Science. 
+I have a **MSc in Applied Mathematics and Informatics** (obtained from NSU, Russia) and an **Engineering degree - Major in Data Science** (obtained from École des Pont ParisTech, France). 
 
 Currently, I'm **in the search of the PhD (or work) project in  Data Science / Deep Learning**, so, I'm pleased to present a short description of the projects I've participated during my studies.
 
