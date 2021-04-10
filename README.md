@@ -9,7 +9,6 @@ Currently, I'm **enrolled in PhD** at Inria Méditerranée **supported by the Fr
 
 I started my PhD, named **Learning Cardiac 3D Electromechanical Dynamics with PDE-based Physiological Constraints for Data-Driven Personalized Predictions in Cardiology**, in march 2020 under supervision of [Maxime Sermesant](https://team.inria.fr/epione/fr/team/maxime-sermesant/) (Inria, Epione) and [Patrick Gallinari](https://www.lip6.fr/actualite/personnes-fiche.php?ident=P33) (Sorbonne University, LIP6, MLIA).
 
-% <img align="left" width="100" height="100" src="http://www.fillmurray.com/100/100">
 <td style="padding:2.5%;width:25%;vertical-align:middle;min-width:150px">
               <img src="http://www.fillmurray.com/100/100" alt="project image" style="width:auto; height:auto; max-width:100%;" />
 </td>
