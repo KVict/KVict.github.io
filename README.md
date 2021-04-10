@@ -5,9 +5,12 @@ I have an **Engineering degree - Major in Data Science** (obtained from École d
 Currently, I'm **enrolled in PhD** at Inria Méditerranée **supported by the French government, through the 3IA Côte d’Azur Investments**. I'm pleased to present a short description of my PhD and other projects where I've participated during my studies.
 
 <h2> </h2>
-<h2> PhD project </h2>
+<h2> PhD project in Deep Learning applied to Cardiology </h2>
 
-I started my PhD, named **Learning Cardiac 3D Electromechanical Dynamics with PDE-based Physiological Constraints for Data-Driven Personalized Predictions in Cardiology**, in march 2020 under supervision of Maxime Sermesant (Inria, Epione) and Patrick Gallinari (Sorbonne University, LIP6, MLIA).
+I started my PhD, named **Learning Cardiac 3D Electromechanical Dynamics with PDE-based Physiological Constraints for Data-Driven Personalized Predictions in Cardiology**, in march 2020 under supervision of [Maxime Sermesant](https://team.inria.fr/epione/fr/team/maxime-sermesant/) (Inria, Epione) and [Patrick Gallinari](https://www.lip6.fr/actualite/personnes-fiche.php?ident=P33) (Sorbonne University, LIP6, MLIA).
+
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo")
+The scientific objective of this project is to combine the advantages of biophysics and deep learning methods, and to develop hybrid models exploiting the complementarity of the two approaches. The main idea is to introduce physiological priors in learning systems through biophysical modelling by learning spatiotemporal dynamics from simulations and by introducing physically motivated constraints relative to these dynamics. The main idea is to introduce physiological priors in learning systems through biophysical modelling by learning spatiotemporal dynamics from simulations and by introducing physically motivated constraints relative to these dynamics. The objective is to exploit optimally the large amounts of data available in this field together with well-known properties of biophysical cardiac dynamics. Besides, this would also enable to propose a datadriven correction of biophysical models error. 
 
 
 <h2> </h2>
