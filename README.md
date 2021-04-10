@@ -5,12 +5,13 @@ I have an **Engineering degree - Major in Data Science** (obtained from École d
 Currently, I'm **enrolled in PhD** at Inria Méditerranée **supported by the French government, through the 3IA Côte d’Azur Investments**. I'm pleased to present a short description of my PhD and other projects where I've participated during my studies.
 
 <h2> </h2>
-<h2> My PhD project </h2>
+<h2> PhD project </h2>
 
-The official name of this project is **Learning Cardiac 3D Electromechanical Dynamics with PDE-based Physiological Constraints for Data-Driven Personalized Predictions in Cardiology**.
+I started my PhD, named **Learning Cardiac 3D Electromechanical Dynamics with PDE-based Physiological Constraints for Data-Driven Personalized Predictions in Cardiology**, in march 2020 under supervision of Maxime Sermesant (Inria, Epione) and Patrick Gallinari (Sorbonne University, LIP6, MLIA).
+
 
 <h2> </h2>
-<h2> My previous projects </h2>
+<h2> Previous projects </h2>
 
 Passioned by **computer vision** and the applications of **GANs and VAEs  for image translation and synthesis** I've also participated in the different (non deep learning) projects to get a deep understanding of basic image processing. More than that, I have a strong background in math and I've been doing research on global optimization methods for multi-dimensional functions for several years.
 
