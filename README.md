@@ -7,7 +7,7 @@ Currently, I'm **enrolled in PhD** at Inria Méditerranée **supported by the Fr
 <h2> </h2>
 <h2> PhD project in Deep Learning applied to Cardiology </h2>
 
-I started my PhD, named **Learning Cardiac Electrophysiological Dynamics with PDE-based Physiological Constraints for Data-Driven Personalized Predictions in Cardiology**, in march 2020 under supervision of [Maxime Sermesant](https://team.inria.fr/epione/en/team/maxime-sermesant/) (Inria, Epione) and [Patrick Gallinari](http://www-connex.lip6.fr/~gallinar/gallinari/pmwiki.php) (Sorbonne University, LIP6, MLIA).
+I started my PhD, named **Learning Cardiac Electrophysiological Dynamics with PDE-based Physiological Constraints for Data-Driven Personalized Predictions in Cardiology**, in march 2020 under supervision of <a href="https://team.inria.fr/epione/en/team/maxime-sermesant/">Maxime Sermesant</a> (Inria, Epione) and [Patrick Gallinari](http://www-connex.lip6.fr/~gallinar/gallinari/pmwiki.php) (Sorbonne University, LIP6, MLIA).
 
 <!--<table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
 <tr>
