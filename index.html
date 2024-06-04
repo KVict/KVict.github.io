@@ -40,6 +40,18 @@
                 <a href="https://kvict.github.io/files/pdfs/CV.pdf">CV</a> &nbsp;/&nbsp;
                 <a href="_data.yml/googlescholar"> Google Scholar</a> &nbsp;/&nbsp;
                 <a href="_data.linkedin">LinkedIn</a>
+
+            <?php
+            // Read the contents of the text file
+            $info = file_get_contents('info.txt');
+            // Split the content into lines
+            $lines = explode("\n", $info);
+            // Loop through each line and display the data
+            foreach ($lines as $line) {
+                list($key, $value) = explode(':', $line);
+                echo "<p>{$key}: {$value}</p>";
+            }
+            ?>
         </div>
     </section>
 
