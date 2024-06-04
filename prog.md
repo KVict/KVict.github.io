@@ -1,6 +1,6 @@
 layout: page
 title: Prog
-permalink: /prog
+permalink: /prog/
 
 
 
