@@ -12,8 +12,8 @@
             <h1> Victoriya KASHTANOVA</h1>
             <nav>
                 <ul>
-                    <li><a href="index.html">Home</a></li>
-                    <li><a href="projects.html">Projects</a></li>
+                    &nbsp; <li><a href="index.html">Home</a></li>
+                    &nbsp; &nbsp; <li><a href="projects.html">Projects</a></li>
                     <li><a href="papers.html">Papers</a></li>
                 </ul>
             </nav>
@@ -46,17 +46,6 @@
                 <a href="_data.yml/googlescholar"> Google Scholar</a> &nbsp;/&nbsp;
                 <a href="_data.linkedin">LinkedIn</a>
 
-            <?php
-            // Read the contents of the text file
-            $info = file_get_contents('info.txt');
-            // Split the content into lines
-            $lines = explode("\n", $info);
-            // Loop through each line and display the data
-            foreach ($lines as $line) {
-                list($key, $value) = explode(':', $line);
-                echo "<p>{$key}: {$value}</p>";
-            }
-            ?>
         </div>
     </section>
 
