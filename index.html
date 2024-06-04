@@ -31,6 +31,25 @@
         <div class="container">
             <h2>Contact Me</h2>
             <p>You can reach me at <a href="mailto:youremail@example.com">youremail@example.com</a>.</p>
+            <p style="text-align:center">
+            {% if site.email %}
+              <a href="mailto:{{site.email | content}}">Email</a>&nbsp;/&nbsp;
+            {% endif %}
+            {% if site.researchgate %}
+              <a href="{{site.researchgate | relative_url}}">ResearchGate</a> &nbsp;/&nbsp;
+            {% endif %}
+            {% if site.googlescholar %}
+              <a href="{{site.googlescholar | relative_url}}">Google Scholar</a> &nbsp;/&nbsp;
+            {% endif %}
+            </p>
+            <p style="text-align:center">
+            {% if site.cv %}
+              <a href="{{site.cv | relative_url}}">CV</a> &nbsp;/&nbsp;
+            {% endif %}
+            {% if site.linkedin %}
+              <a href="{{site.linkedin | relative_url}}">LinkedIn</a>
+            {% endif %}
+            </p>
         </div>
     </section>
 
