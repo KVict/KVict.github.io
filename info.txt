@@ -1,2 +1,2 @@
-name: Your Name
+name: MY Name
 email: MYemail@example.com
