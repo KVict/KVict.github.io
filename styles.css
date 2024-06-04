@@ -1,0 +1,78 @@
+/* Reset styles */
+body, h1, h2, h3, p, ul, li {
+    margin: 0;
+    padding: 0;
+}
+
+/* Basic styles */
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    line-height: 1.6;
+    background-color: #ffffff; /* Light blue */
+}
+
+.container {
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+header {
+    background: #90caf9; /* Light blue */
+    color: #333; /* Dark gray */
+    padding: 20px 0;
+}
+
+header h1 {
+    margin: 0;
+}
+
+nav ul {
+    list-style: none;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+section {
+    padding: 40px 0;
+}
+
+section h2 {
+    margin-bottom: 20px;
+    color: #90caf9; /* Light blue */
+}
+
+.project {
+    margin-bottom: 40px;
+}
+
+.project h3 {
+    color: #90caf9; /* Light blue */
+}
+
+.project p {
+    color: #666; /* Gray */
+}
+
+.project a {
+    display: inline-block;
+    margin-right: 10px;
+    padding: 5px 10px;
+    background-color: #90caf9; /* Light blue */
+    color: #333; /* Dark gray */
+    text-decoration: none;
+}
+
+.project a:hover {
+    background-color: #90caf9; /* Light blue or  #bbdefb; Lighter blue */
+}
+
+footer {
+    background: #90caf9; /* Light blue */
+    color: #333; /* Dark gray */
+    text-align: center;
+    padding: 20px 0;
+}
