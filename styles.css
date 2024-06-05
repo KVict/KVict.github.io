@@ -63,19 +63,26 @@ section h2 {
 }
 
 .project {
-    margin-bottom: 40px;
+    margin-bottom: 0px;
 }
 
 .project h3 {
-    color: #90caf9; /* Light blue */
+    color: #0c83e3;
 }
 
 .project p {
+    color: #000000;
+}
+
+.project br {
     color: #666; /* Gray */
+    margin-bottom: 10px;
+    font-style: italic;
 }
 
 .project a {
     display: inline-block;
+    margin-top: 20px;
     margin-right: 10px;
     padding: 5px 10px;
     background-color: #90caf9; /* Light blue */
