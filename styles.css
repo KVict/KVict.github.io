@@ -116,6 +116,12 @@ section h2 {
     max-width: 100%;
 }
 
+.image-cell video {
+    width: auto;
+    height: auto;
+    max-width: 100%;
+}
+
 .info-cell {
     width: 75%;
     height: auto;
