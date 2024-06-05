@@ -89,6 +89,15 @@ section h2 {
     background-color: #90caf9; /* Light blue or  #bbdefb; Lighter blue */
 }
 
+.project table {
+    width: 100%;
+    border: 0px;
+    border-spacing: 0px;
+    border-collapse: separate;
+    margin-right: auto;
+    margin-left: auto;
+}
+
 footer {
     background: #90caf9; /* Light blue */
     color: #333; /* Dark gray */
