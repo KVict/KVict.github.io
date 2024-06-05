@@ -33,6 +33,7 @@ header h1, nav {
 
 nav ul {
     list-style: none;
+    margin-left: 40px;
 }
 
 nav ul li {
