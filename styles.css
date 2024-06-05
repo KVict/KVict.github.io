@@ -63,21 +63,16 @@ section h2 {
 }
 
 .project {
-    margin-bottom: 0px;
+    margin-bottom: 20px;
 }
 
 .project h3 {
     color: #0c83e3;
+    margin-bottom: 10px;
 }
 
 .project p {
     color: #000000;
-}
-
-.project br {
-    color: #666; /* Gray */
-    margin-bottom: 10px;
-    font-style: italic;
 }
 
 .project a {
