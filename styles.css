@@ -131,6 +131,7 @@ section h2 {
 }
 
 .info-cell em {
+    color: #333;
     font-style: italic;
 }
 
