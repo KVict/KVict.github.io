@@ -89,13 +89,42 @@ section h2 {
     background-color: #90caf9; /* Light blue or  #bbdefb; Lighter blue */
 }
 
-.project table {
+.research-table {
     width: 100%;
-    border: 0px;
-    border-spacing: 0px;
+    border: 0;
     border-collapse: separate;
+    border-spacing: 0px;
     margin-right: auto;
     margin-left: auto;
+}
+
+.research-table td {
+    padding: 2.5%;
+    vertical-align: middle;
+}
+
+.image-cell {
+    width: 25%;
+    height: auto;
+    max-width: 150px;
+}
+
+.info-cell {
+    width: 75%;
+    height: auto;
+    max-width: 150px;
+}
+
+.info-cell h3 {
+    margin-top: 0;
+}
+
+.info-cell p {
+    margin-bottom: 5px;
+}
+
+.info-cell em {
+    font-style: italic;
 }
 
 footer {
