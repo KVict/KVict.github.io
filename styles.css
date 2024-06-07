@@ -67,6 +67,12 @@ section h2 {
     margin-bottom: 10px;
 }
 
+.project h2 {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    color: #90caf9; /* Light blue */
+}
+
 .project h3 {
     color: #0c83e3;
     margin-bottom: 10px;
