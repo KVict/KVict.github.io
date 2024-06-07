@@ -105,7 +105,7 @@ section h2 {
 }
 
 .image-cell {
-    width: 25%;
+    width: 30%;
     height: auto;
     max-width: 150px;
 }
@@ -123,7 +123,7 @@ section h2 {
 }
 
 .info-cell {
-    width: 75%;
+    width: 70%;
     height: auto;
     max-width: 150px;
 }
